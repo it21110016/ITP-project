@@ -1,0 +1,17 @@
+.manageChannel{
+    background-image: url('https://thumbs.dreamstime.com/b/professional-doctor-hospital-medical-healthcare-business-service-panorama-concept-200792581.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.mangApp{
+    color: #00008B;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+  
+

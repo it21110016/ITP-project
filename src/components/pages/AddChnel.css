@@ -1,0 +1,80 @@
+#Addform{
+    max-width: 800px;
+    padding: 16px;
+    background-color: #DCDCDC; 
+    opacity: 0.8;
+  }
+  
+  .Addappoi{
+      font-family:Arial;
+      font-weight: bold;
+      color:#000080;
+      font-size: 2rem;
+      text-align: center;
+  }
+  
+  #chba1{
+      background-color: #8B008B; 
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      font-weight: bold;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+  }
+  
+  .AddChnnelpg{
+      background-image: url('https://www.achievers.com/blog/wp-content/uploads/2019/07/07_19_19.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: bold;
+  }
+  
+  .searchChannelTitle{
+      font-size: 40px;
+      text-align: center;
+      color: #8B008B;
+      margin: 0;
+      height: 60px;
+  }
+  
+  .searchChannelingBtn{
+      align-items: left;
+      border-radius: 8px;
+      background-color:rgb(228, 236, 218);
+      height: 50px;
+      width:200px;
+      transition-duration: 0.4s;
+     
+  }
+  
+  .searchChannelingBtn:hover {
+      background-color: white;
+  }
+  
+  .toSearch{
+      color:rgb(128, 0, 49);
+      font-weight: bold;
+  }
+  
+  #searchChannelForm{
+      max-width: 700px;
+      height:500px;
+      padding: 16px;
+      background-color: rgb(236, 241, 243);
+  }
+  
+  .SearchChannel{
+      background-image: url('https://wallpapercave.com/wp/wp2789185.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: bold;
+  }
+  
+  .searchBar{
+      width:400px;
+  }

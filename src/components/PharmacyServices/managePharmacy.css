@@ -1,0 +1,15 @@
+.pharmacyPage{
+    padding: 0;
+    background: url(../../images/nnn.jpg);
+    min-height: 900px;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.pharmacyTitle{
+    color:rgb(255, 255, 255);
+    margin: 0mm;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    font-size: 3rem;
+}

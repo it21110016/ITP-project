@@ -1,0 +1,241 @@
+.addMedicineTitle{
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
+	height: 60px;
+}
+
+.viewMedicineTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+ 
+.createPatientTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black; 
+	margin: 0;
+	height: 60px;
+}
+
+.addMedicinePage{
+	background: url("https://t3.ftcdn.net/jpg/02/07/09/06/360_F_207090644_pzixjQM0iSPLdTTAjDT0DX4nXVMz7Non.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 820px;
+  	
+}
+
+#addMedicineForm{
+	max-width: 800px;
+	margin-left: 1000px;
+	padding: 16px;
+	background-color:#818181e3;
+}
+
+.viewMedicinePage{
+	background: url("https://www.rightmedicinepharmacy.co.uk/wp-content/uploads/2019/11/Right-Medicine-Pharmacy-Services-4.png") no-repeat center center fixed;
+	background-position: center;
+    min-height: 900px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#viewMedicineForm{
+	max-width: 1200px;
+	
+  padding: 16px;
+  background-color:rgb(221, 221, 127);
+}
+
+.editMedicinePage{
+	background: url("https://st4.depositphotos.com/12985656/21944/i/600/depositphotos_219449516-stock-photo-top-view-plastic-medical-capsules.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 900px;
+}
+
+#editMedicineForm{
+	margin-left: 500px;
+  max-width: 800px;
+  padding: 16px;
+  background-color: rgba(248, 135, 135, 0.918);
+}
+
+.createPatientPage{
+  	background: url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_643024904_20001334181884391236_361786.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 700px;
+}
+
+#createPatientForm{
+	max-width: 800px;
+	padding: 16px;
+	margin-left: 100px;
+	background-color:rgb(30, 238, 141);
+}
+.searchMadicineBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(250, 230, 49);
+	color: rgb(8, 8, 8);
+	height: 40px;
+	width:200px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+.searchMadicineBtn:hover {
+	background-color: rgb(142, 245, 245);
+	font-weight: bold;
+}
+
+.searchMadicinePage{
+	background: url("https://cdn.wallpapersafari.com/33/84/B0Zocq.png") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 900px;
+}
+.searchMadicinTitle{
+	font-size: 50px;
+	text-align: center;
+	color: rgb(17, 16, 16);
+	margin: 0;
+	height: 60px;
+}
+.searchBar{
+	width:400px;
+}
+
+.viewCustomerPage{
+	background: url("https://previews.123rf.com/images/ookasan/ookasan1709/ookasan170900513/87167145-antibiotics-contain-blue-pills-yellow-red-or-capsules-on-a-white-background-with-copied-clearance-me.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 900px;
+}
+
+.searchCusBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(250, 249, 249);
+	height: 40px;
+	width:200px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+.searchCusBtn:hover {
+	background-color: rgb(245, 142, 142);
+	font-weight: bold;
+}
+
+.searchExercisesPage{
+	background: url("https://cdn.wallpapersafari.com/33/84/B0Zocq.png") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 900px;
+}
+.searchMadicinTitle{
+	font-size: 50px;
+	text-align: center;
+	color: rgb(17, 16, 16);
+	margin: 0;
+	height: 60px;
+}
+.searchBar{
+	width:400px;
+}
+
+.addMReportBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(250, 249, 249);
+	height: 40px;
+	width:1170px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+.addMReportBtn:hover {
+	background-color: rgb(245, 142, 142);
+	font-weight: bold;
+}
+
+.viewExercisesPage{
+	background: url("https://cdn.wallpapersafari.com/33/84/B0Zocq.png") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 900px;
+}
+
+.PharmacyexercisesDetails{
+	color:rgb(7, 7, 82);
+}
+
+.generateRepoBtn{
+	margin: 25px;
+	margin-left: 0px;
+	color: rgb(57, 6, 151);
+	font-weight: bold;
+	border-radius: 10px;
+	background-color:rgb(28, 248, 230);
+	height: 50px;
+	width:400px;
+	transition-duration: 0.4s;
+}
+
+.generateRepoBtn:hover {
+	background-color: rgb(98, 241, 117);
+	color: rgb(12, 12, 12);
+	font-weight: bold;
+}
+#editMadiBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(102, 215, 235);
+	height: 40px;
+	width:200px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+#editMadiBtn:hover {
+	background-color: rgb(236, 72, 72);
+	font-weight: bold;
+}
+#CpBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(150, 158, 160);
+	height: 40px;
+	width:200px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+}
+
+#CpBtn:hover {
+	background-color: rgb(72, 211, 236);
+	font-weight: bold;
+}
+.form-gro{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	width: cal(100%/2-20px);
+}
+.input1{
+	width: 10%;
+	
+}

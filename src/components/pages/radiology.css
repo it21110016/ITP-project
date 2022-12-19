@@ -1,0 +1,375 @@
+.radiologyManageTitle{
+	font-weight: bold;
+	color:black;
+	font-size: 50px;
+}
+
+.addRadiologyPatientTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.viewRadiologyPatientTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.calRadiologyCostTitle{
+	font-size: 45px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.searchRadiologyTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.RadiologyCostDetails{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.searchRadiologyTitle{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.searchRadiologyBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(187, 184, 184);
+	height: 40px;
+	width:200px;
+	transition-duration: 0.4s;
+}
+
+.searchRadiologyBtn:hover {
+	background-color: white;
+}
+
+.viewAllRadiologyCostBtn{
+	margin: 20px;
+	border-radius: 8px;
+	background-color:lightcoral;
+	height: 40px;
+	width:240px;
+	transition-duration: 0.4s;
+}
+
+.viewAllRadiologyCostBtn:hover {
+	background-color: white;
+}
+
+.searchRadiologyCostBtn{
+	margin: 25px;
+	border-radius: 8px;
+	background-color:lightcoral;
+	height: 40px;
+	width:240px;
+	transition-duration: 0.4s;
+}
+
+.searchRadiologyCostBtn:hover {
+	background-color: white;
+}
+
+.generateReportBtn{
+	margin: 25px;
+	margin-left: 725px;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	border-radius: 8px;
+	background-color:rgb(26, 23, 23);
+	height: 50px;
+	width:400px;
+	transition-duration: 0.4s;
+}
+
+.generateReportBtn:hover {
+	background-color: white;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+
+
+.toSearchPage{
+	color:purple;
+	font-weight: bold;
+}
+
+.viewRadiologyDeleteLink{
+	color:red;
+}
+
+.linkToViewRadiologyCost{
+	color: maroon;
+	margin: 20px;;
+	font-weight: bold;
+	width: 200px;
+}
+
+
+
+
+
+
+
+.radiology{
+  background-color: #11105e;
+  background-size: cover;
+}
+
+
+.addRadiologyPatient{
+    background: url("https://image.shutterstock.com/image-photo/female-medicine-doctor-working-modern-260nw-185743394.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  
+
+}
+.form-radiologygroup{
+  width: 80%;
+  background: transparent;
+  background: rgba(28, 145, 135, 0.5);
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 700px;
+}
+
+.form-radiologyaddselect{
+  width: 80%;
+  background: transparent;
+  background: rgba(28, 145, 135, 0.5);
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 700px;
+
+}
+
+.radiologyform{
+  width: 60%;
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 500px;  
+}
+
+
+#viewradiologyCostForm{
+	opacity: 0.9;
+	padding:80px;
+    margin: 0 auto;
+    display: grid;
+	max-width: 1000px;
+	background-color:salmon;
+}
+
+
+#radb{
+  background-color: #071a52;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+.editRadiologyPatient{
+  background: url("https://www.lalchandanipathlab.com/assets/upload/blogs/1565111048_radiology.jpg") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+
+}
+
+
+.form-radiologyedit{
+  width: 80%;
+  background: transparent;
+  background: rgba(42, 152, 172, 0.5);
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 700px;
+}
+
+.form-radiologyeditselect{
+  width: 80%;
+  background: transparent;
+  background: rgba(42, 152, 172, 0.5);
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 700px;
+
+}
+
+#radb{
+  background-color: #002651;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.viewRadiologyPatient{
+  background: url("https://www.lalchandanipathlab.com/assets/upload/blogs/1565111048_radiology.jpg") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+
+}
+
+.calRadiologyCost{
+  background: url("https://images.sampletemplates.com/wp-content/uploads/2015/09/Construction-Budget-Samples.jpg") no-repeat center center fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-size: cover;
+  position: relative;
+
+}
+
+.form-radcost{
+  width: 80%;
+  background: transparent;
+  background: #91867980;
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 800px;
+}
+
+.ri{
+  display: flex;
+  height: 10vh;
+  color: #430d27;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+#radc{
+  background-color: #713045;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+
+#rade{
+  background-color: #582233;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+.ri1{
+  display: flex;
+  height: 10vh;
+  color: #000000;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.form-rbtn{
+  width: 60%;
+  padding: 10px;
+  margin: 0 auto;
+  display: grid;
+  max-width: 800px;
+}
+
+
+#radf{
+  color: #d72323;
+}
+
+
+
+.searchRadiologyPage{
+	background: url("https://www.neighborhoodrad.com/wp-content/uploads/2017/11/patient-with-radiologist.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#searchRadiologyForm{
+	max-width: 800px;
+	height:500px;
+	padding: 16px;
+	background-color:peachpuff;
+}
+
+.searchRadiologyCostPage{
+	background: url("https://www.chcf.org/wp-content/uploads/2020/03/Calculator-Medical-Billing-Codes_Card.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#searchRadiologyCostForm{
+	max-width: 700px;
+	height:700px;
+	padding: 16px;
+	background-color: peachpuff;
+}
+
+.searchBar{
+	width:400px;
+}
+
+#btns{
+	left: 10px;
+} 
+
+.radiologyReportPage{
+	background:url('https://i.pinimg.com/originals/b7/cd/5f/b7cd5f4b3eb91bc06ac4f790f019b323.jpg');
+}
+
+.radiologyReportTitle{
+	color:rgb(7, 7, 82);
+}
+

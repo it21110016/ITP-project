@@ -1,0 +1,20 @@
+.manageRadiologyPatient{
+    background: url("")no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.radiologyManagement{
+    display: flex;
+    height: 10vh;
+    color: #071a52;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+p{
+    font-size: 30px;
+}
+
+   

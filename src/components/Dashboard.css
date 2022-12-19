@@ -1,0 +1,19 @@
+.home{
+    background-color:deepskyblue;
+}
+
+.homeImage{
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.homeContent{
+    font-size: 17px;
+    background-color:aliceblue;
+}

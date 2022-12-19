@@ -1,0 +1,622 @@
+.patient{
+    background-color: #11105e;
+    background-size: cover;
+}
+
+
+.AdmitPatient{
+    background: url("https://i.pinimg.com/originals/1a/ee/5c/1aee5c344846f449350feae457ea350e.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-groupPatient{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-addselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+/*.addPatientform{
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 500px;  
+}*/
+
+#badd{
+    background-color: #071a52;
+    border: none;
+    color: white;
+    position: relative;
+    left:150px;
+    right:150px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.admitPatientTitle{
+    display: flex;
+    height: 10vh;
+    color: #033813;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.EditPatient{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  
+}
+
+
+.form-edit{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-editselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+#bedit{
+    background-color: #002651;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.PatientList{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+
+.ChargeCalculate{
+    background: url("https://www.corhealthontario.ca/img/COVID-19-Landing-Page-Banner.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+  
+}
+
+.form-calculation{
+    width: 80%;
+    background: transparent;
+    background: #91867980;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+.patientCharge{
+    display: flex;
+    height: 10vh;
+    color: #430d27;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+#bchargecal{
+    background-color: #713045;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+
+#bdatabase{
+    background-color: #582233;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.form-btn{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+#table {
+    border-collapse: collapse;
+    width: 500%;
+}
+  
+#table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #70acb1;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #a8e0e1;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color:#122d42;
+}
+
+#linkButton{
+    color: #d72323;
+}.patient{
+    background-color: #11105e;
+    background-size: cover;
+}
+
+
+.AdmitPatient{
+    background: url("https://i.pinimg.com/originals/1a/ee/5c/1aee5c344846f449350feae457ea350e.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-groupPatient{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-addselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(28, 145, 135, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+/*.addPatientform{
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 500px;  
+}*/
+
+#badd{
+    background-color: #071a52;
+    border: none;
+    color: white;
+    position: relative;
+    left:150px;
+    right:150px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.admitPatientTitle{
+    display: flex;
+    height: 10vh;
+    color: #033813;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.EditPatient{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  
+}
+
+
+.form-edit{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 700px;
+}
+
+.form-editselect{
+    width: 80%;
+    background: transparent;
+    background: rgba(42, 152, 172, 0.5);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 700px;
+
+}
+
+#bedit{
+    background-color: #002651;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.PatientList{
+    background: url("https://www.wellmo.com/wp-content/uploads/2020/03/kuva-uutiseen.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+
+.ChargeCalculate{
+    background: url("https://www.corhealthontario.ca/img/COVID-19-Landing-Page-Banner.jpg") no-repeat center center fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-size: cover;
+  
+}
+
+.form-calculation{
+    width: 80%;
+    background: transparent;
+    background: #91867980;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+.patientCharge{
+    display: flex;
+    height: 10vh;
+    color: #430d27;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#bchargecal{
+    background-color: #713045;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+
+#bdatabase{
+    background-color: #582233;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.form-btn{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+}
+
+#table {
+    border-collapse: collapse;
+    width: 500%;
+}
+  
+#table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #70acb1;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #a8e0e1;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color:#122d42;
+}
+
+#linkButton{
+    color: #d72323;
+}
+
+/*search,report*/
+
+.searchPatientBtn{
+	align-items: right;
+	border-radius: 8px;
+	background-color:rgb(3, 80, 70);
+	height:55px;
+	width:400px;
+	transition-duration: 0.4s; 
+     
+}
+
+.searchPatientBtn:hover {
+	background-color: rgb(10, 212, 179);    
+}
+
+.searchPatientTitle{
+	font-size: 60px;
+	text-align: center;
+	color: black;
+	margin: 0;
+	height: 60px;
+}
+
+.toSearchPatientPage{
+	color:rgb(210, 217, 224);
+	font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.searchPatientPage{
+	background: url("https://victoria.mediaplanet.com/app/uploads/sites/76/2019/07/iStock-1058161032.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#searchPatientForm{
+	max-width: 800px;
+	height:700px;
+	padding: 16px;
+    background-color: transparent;
+    background: rgba(22, 123, 136, 0.5);
+    
+}
+
+.searchBar{
+	width:400px;
+    height: 40px;
+}
+.searchButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: auto;
+}
+
+
+
+.searchChargeTitle{
+	font-size: 50px;
+	text-align: center;
+	color: rgb(2, 14, 46);
+	margin: 0;
+	height: 60px;
+}
+
+.searchCharge{
+	font-size: 25px;
+    font-weight: bold;
+	color: rgb(51, 2, 21);
+	margin: 0;
+	height: 60px;
+}
+
+
+
+.searchChargeBtn{
+	margin: 20px;
+	border-radius: 8px;
+	background-color:rgb(5, 55, 77);
+	height: 55px;
+	width:330px;
+	transition-duration: 0.4s; 
+}
+
+.searchChargeBtn:hover {
+	background-color: rgb(65, 188, 236);
+}
+.searchChButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: auto;
+}
+.searchChargePage{
+	background: url("https://img.freepik.com/free-vector/clean-medical-background_53876-101048.jpg?size=338&ext=jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#searchChargeForm{
+	max-width: 750px;
+	height:600px;
+	padding: 16px;
+	background-color: transparent;
+    background: rgba(53, 106, 121, 0.5);
+}
+
+.search{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(19, 14, 14);
+}
+
+.linkToViewCharge{
+	color: rgb(236, 228, 228);
+	margin: 20px;;
+	font-weight: bold;
+	width: 330px;
+    font-size: 16px;
+}
+
+.viewAllChargeBtn{
+	margin: 20px;
+	border-radius: 8px;
+	background-color:rgb(187, 87, 29);
+	height: 55px;
+	width:320px;
+	transition-duration: 0.4s;
+}
+
+.viewAllChargeBtn:hover {
+	background-color: rgb(163, 129, 60);
+}
+
+.viewChargePage{
+	background: url("https://www.prudential.com.my/export/sites/prudential-pamb/en/.galleries/images/doctor-hand-pointing-tablet-666x500.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#viewChargeForm{
+	max-width: 1240px;
+    background-color: transparent;
+    background:rgba(245, 247, 242, 0.5);
+    padding: 40px;
+    margin: 0 auto;
+    display: grid;
+}
+
+#report-btn{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 800px;
+    background-color: #973108;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+}
+.reportPatientTitle{
+    display: flex;
+    height: 10vh;
+    color: #0a0431;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3.5rem;
+}

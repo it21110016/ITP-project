@@ -1,0 +1,338 @@
+.lab{
+    background-color: #11105e;
+    background-size: cover;
+}
+
+.form-labgroup1{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(23, 126, 129, 0.5);
+  
+}
+
+.form-labgroup2{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(64, 192, 243, 0.5);
+  
+}
+
+.form-labgroup3{
+    width: 80%;
+    background-color: transparent;
+    padding: 20px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 900px;
+    background: rgba(17, 88, 90, 0.5);
+  
+}
+
+.searchLabBtn{
+	align-items: left;
+	border-radius: 8px;
+	background-color:rgb(164, 159, 231);
+	height: 40px;
+	width:200px;
+	transition-duration: 0.4s;
+}
+
+.searchLabBtn:hover {
+	background-color: rgb(87, 123, 221);
+}
+
+
+.labform{
+    width: 60%;
+    padding: 10px;
+    margin: 0 auto;
+    display: grid;
+    max-width: 500px;
+}
+
+/*p{
+    font-size: 30px;
+}*/
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+  
+table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #6fc2d0;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #acdbdf;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color: rgb(226, 70, 43);
+}
+
+.AddLab{
+    background-image: url('https://encycloblog.com/wp-content/uploads/2020/11/research-have-been-made.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+.viewcalCost{
+    background-image:url('https://t3.ftcdn.net/jpg/03/15/66/96/360_F_315669632_zpQL6tY63tJEInUk64OBSq05fglGaFVP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+.LabView{
+    background-image: url('https://t3.ftcdn.net/jpg/03/15/66/96/360_F_315669632_zpQL6tY63tJEInUk64OBSq05fglGaFVP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    
+}
+
+.calCost{
+    background-image: url('https://econsultontario.ca/wp-content/uploads/2019/11/image001-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+    
+}
+
+.EditLab{
+    background-image: url('https://www.lifepoint.com/wp-content/uploads/2021/01/affordable-interface-outreach.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0px;
+}
+
+#btnlab1{
+    background-color: rgb(17, 35, 204);
+    border: none;
+    color: rgb(223, 223, 233);
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+}
+
+#btnlab2{
+    background-color:red;
+    border: none;
+    color: rgb(223, 223, 233);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 700px;
+}
+#btnlab7{
+    background-color:#1f4287;
+    border: none;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#btnlab3{
+    background-color:#1e2a78;
+    border: none;
+    color: rgb(223, 223, 233);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 700px;
+}
+
+#buttonlab
+    {
+    color: #d72323;
+}
+
+#searchbtn{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+  }
+
+.addlabTitle{
+    color: #303a52;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+    display:flex;
+    height: 10vh;
+}
+
+.viewlabTital{
+    color: rgb(15, 18, 175);
+    font-style: oblique;
+    font-weight: bold;
+    justify-content: center;
+    font-size: 3rem;
+    display: flex;
+    height: 10vh;
+}
+
+.searchLabPage{
+	background: url("https://encycloblog.com/wp-content/uploads/2020/11/research-have-been-made.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position-y: 0px;
+
+}
+
+#searchLabForm{
+	max-width: 1000px;
+	height:800px;
+	padding: 20px;
+	background-color: transparent;
+    background: rgba(36, 105, 194, 0.5);
+}
+
+.searchLabTitle{
+	font-size: 50px;
+	text-align: center;
+	color: rgb(22, 57, 173);
+	margin: 0;
+	height: 60px;
+}
+
+#searchLabcostForm{
+	max-width: 1000px;
+	height:800px;
+	padding: 20px;
+	background-color: transparent;
+    background: rgba(74, 117, 209, 0.473);
+}
+
+.searchLabcostPage{
+    background: url("https://encycloblog.com/wp-content/uploads/2020/11/research-have-been-made.jpg") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#btnlabcost{
+    background-color:#e41649;
+    border: none;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    width: 700px;
+}
+
+.viewAlllabcostBtn{
+	margin: 20px;
+	border-radius: 8px;
+	background-color:rgb(146, 186, 238);
+	height: 40px;
+	width:240px;
+	
+    margin-right: 10px;
+}
+
+.searchcalcostBtn{
+    
+	border-radius: 8px;
+	background-color:rgb(146, 186, 238);
+	height: 40px;
+	width:240px;
+	transition-duration: 0.4s;
+    margin-right: 30px;
+}
+
+.linkToviewcalCost{
+	color: maroon;
+	margin: 20px;;
+	font-weight: bold;
+	width: 200px;
+    margin-right: 20px;
+}
+
+.linkToViewCost{
+    color: maroon;
+	margin: 20px;;
+	font-weight: bold;
+	width: 200px;
+    margin-right: 20px;
+}
+
+
+
+#reporttbtn{
+    
+	border-radius: 8px;
+	background-color:rgb(146, 186, 238);
+	height: 40px;
+	width:240px;
+	transition-duration: 0.4s;
+    margin-right: 30px;
+}
+
+.labcostReportPage{
+    background: url("https://us.123rf.com/450wm/madamlead/madamlead1712/madamlead171200021/91653629-experiment-water-in-beaker-and-flask-in-blue-chemistry-science-laboratory-background.jpg?ver=6") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.tab{
+    color: violet;
+}

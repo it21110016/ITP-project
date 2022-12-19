@@ -1,0 +1,69 @@
+.viewChnnelpg{
+    background-image: url('https://thumbs.dreamstime.com/z/hospital-health-care-concept-doctor-patient-make-appointment-follow-up-plan-physician-point-calendar-125229495.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+
+
+#ba3 {
+    background-color: #008000; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.viewapp{
+    text-align: center;
+    font-weight:bold;
+    color:#000080;
+    font-size: 3rem;
+}
+
+#ba4{
+    color: #FF0000;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+  
+table ,tr,td{
+    border: 1px solid #ddd;
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #FAEBD7;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #FFF8DC;
+}
+
+th:nth-child(odd){
+    background-color:#f2f2f2;
+}
+
+th:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: blueviolet;
+}

@@ -1,0 +1,32 @@
+#Editform{
+    background-color:#ADD8E6;
+	padding:16px;
+    max-width: 800px;
+    opacity: 0.8;
+}
+
+.EditChnel{
+    background-image: url('https://www.gigadocs.com/blog/wp-content/uploads/2019/12/blog.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight:bold;
+}
+
+.updateapp{
+    font-family:Sans-serif;
+	font-weight:bold;
+	color:#000080;
+}
+
+#ba2 {
+    background-color: #191970; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }

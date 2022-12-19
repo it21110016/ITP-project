@@ -1,0 +1,203 @@
+.covidManageTitle{
+	font-family:'Times New Roman', Times, serif;
+	font-weight: bold;
+	background-color:mediumpurple;
+	color: black;
+	height: 60px;
+}
+
+
+.addcovidTitle{
+	color: rgb(85, 214, 247);
+	margin: 0;
+	height: 60px;
+}
+
+.addcovid1Title{
+	color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+	margin: 0;
+	height: 60px;
+    color: black;
+    font-weight: bold;
+}
+.addcovid2Title{
+    font-size: 40px;
+    text-align: center;
+	color: rgb(255, 255, 255);
+	margin: 0;
+	height: 60px;
+    color: black;
+    font-weight: bold;
+}
+.addcovid3Title{
+    font-size: 40px;
+    text-align: center;
+	color: rgb(85, 214, 247);
+	margin: 0;
+	height: 60px;
+    font-weight: bold;
+}
+
+#addRegisterForm{
+	max-width: 800px;
+  padding: 16px;
+  background-color: rgba(0,0,0,.5);
+}
+
+.detailsBox
+{
+    position:absolute;
+    top:12%;
+    left:10%;
+   
+    width:1050px;
+    height:920px;
+    padding:80px 40px;
+    box-sizing:border-box;
+    background:rgba(0,0,0,.5);
+}
+
+.textColour {
+    color: #fff;
+}
+
+.addCovidPage{
+	background: url("https://www.ft.com/__origami/service/image/v2/images/raw/https://d1e00ek4ebabms.cloudfront.net/production/1da2767f-064d-491b-8236-82f24bcb429c.jpg?source=next&amp;fit=scale-down&amp;quality=highest&amp;width=1440") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 900px;
+}
+
+#addCovidPage{
+	background: url("https://www.ft.com/__origami/service/image/v2/images/raw/https://d1e00ek4ebabms.cloudfront.net/production/1da2767f-064d-491b-8236-82f24bcb429c.jpg?source=next&amp;fit=scale-down&amp;quality=highest&amp;width=1440") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 900px;
+}
+
+.calcovidPage{
+	background: url("https://media.istockphoto.com/photos/medical-finance-insurance-picture-id1181024482?k=20&m=1181024482&s=612x612&w=0&h=s9LO_QLiF9HnyxtUDSvfJWP86OZpZLtTBOFMegtx4kE=") no-repeat center center fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    min-height: 1000px;
+}
+
+
+
+/*.displayTable {
+    border-collapse: collapse;
+    width: 50%;
+}
+  
+.displayTable ,tr,td{
+    border: 1px solid rgb(34, 32, 32);
+    text-align: left;
+}
+  
+td{
+    padding:15px;
+}
+  
+tr:nth-child(even)
+{
+   background-color: #5ae7b1;
+}
+   
+tr:nth-child(odd)
+{
+   background-color: #e5f3f7;
+}
+
+th:nth-child(odd){
+    background-color:#e5f1ab;
+}
+
+th:nth-child(even){
+    background-color: #e5f1ab;
+}
+
+
+
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFD700;
+    color: rgb(80, 42, 35);
+}*/
+
+#searchRegisterVaccineForm{
+	max-width: 700px;
+	height:650px;
+	padding: 16px;
+	background-color: white;
+}
+ 
+#searchTfeeForm{
+	max-width: 700px;
+	height:600px;
+	padding: 16px;
+	background-color: white;
+}
+
+.repVBtn{
+    display: inline-block;
+    padding: 15px 255px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #fa1109;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position:absolute;
+    left:26%;
+}
+
+.repVBtn:hover {background-color: #3e8e41}
+
+.repVBtn:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+#viewVaccineForm{
+    max-width: 800px;
+    padding: 16px;
+    height: 880px;
+    background-color: rgba(98, 122, 138, 0.5);
+}
+
+.VaccineFeeDetails{
+    color: blanchedalmond;
+    -webkit-text-stroke: 0.8px rgba(0,0,0,.5);
+}
+
+#covidbar{
+  max-width: 10000px;
+    padding: 16px;
+    height: 800px;
+    background-color: rgba(98, 122, 138, 0.5);
+}
+
+.addcovid1Title{ 
+    color: blanchedalmond;
+    -webkit-text-stroke: 0.8px rgba(0,0,0,.5);
+}
+
+#covidbar2{
+    max-width: 10000px;
+      padding: 16px;
+      height: 700px;
+      background-color: rgba(98, 122, 138, 0.5);
+  }
